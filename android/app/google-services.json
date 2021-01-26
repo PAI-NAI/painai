@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360823224792",
+    "project_id": "painai-c4c02",
+    "storage_bucket": "painai-c4c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360823224792:android:04a827fca79ad8713b1aad",
+        "android_client_info": {
+          "package_name": "com.example.googlemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360823224792-8ms63bv9rlu52img20in191ihbooc2ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWbSGl-plGFWbq84rL53E_uN3dhzRax7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360823224792-8ms63bv9rlu52img20in191ihbooc2ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
